@@ -71,7 +71,7 @@ A social platform within healthcare that includes:
 - **Smart Stock Management**: Predictive inventory management for pharmacies
 - **Health Risk Assessment**: Pattern recognition in health data
 
-###📊 AI-Powered Price Forcast
+### 📊 AI-Powered Price Forcast
 
 ### 📱 Responsive Design
 - **Mobile-First**: Optimized for all device sizes
